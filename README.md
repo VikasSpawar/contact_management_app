@@ -6,7 +6,7 @@ The app includes a dashboard with charts and maps that display COVID-19 data for
 https://contact-management-app-teal.vercel.app/
 
 # Pages and Functionality
-The app has two main pages:
+## The app has two main pages:
 
 # Contacts
 This page allows you to manage your contacts. You can add a new contact by filling out the form, and the contact will be added to the list. You can also edit or delete an existing contact. Clicking on a contact's name will take you to the contact details page.
@@ -23,8 +23,8 @@ The app uses the following APIs to fetch data:
 - Country Specific data of cases: https://disease.sh/v3/covid-19/countries
 - Graph data for cases with date: https://disease.sh/v3/covid-19/historical/all?lastdays=all
 
-#Technologies Used
-The following technologies were used to build this app:
+# Technologies Used
+## The following technologies were used to build this app:
 
 - ReactJS
 - JavaScript
@@ -33,7 +33,7 @@ The following technologies were used to build this app:
 - React Query
 - Redux
 # Installation and Setup
-To run this app, follow these steps:
+## To run this app, follow these steps:
 
 - Clone this repository: git clone https://github.com/your-username/contact-management-app.git
 - Install the dependencies: npm install
@@ -42,7 +42,7 @@ To run this app, follow these steps:
 
 # Screenshots 
 
-## Contact Page 
+## Contact Page :-
 
 <img src="./contact_management_app/ScreenShots/Contact_Page.PNG"/>
 
@@ -58,7 +58,7 @@ To run this app, follow these steps:
 </br>
 
 
-## Charts And Maps Page
+## Charts And Maps Page :-
 
 <img src="./contact_management_app/ScreenShots/Chart_And_Maps_1.PNG"/>
 
