@@ -1,5 +1,5 @@
 # Contact Management App with Charts and Maps
-This is a contact management app built using ReactJS, TypeScript, TailwindCSS, React Router v6, and Redux. 
+This is a contact management app built using ReactJS, JavaScript, TailwindCSS, React Router v6, and Redux. 
 The app includes a dashboard with charts and maps that display COVID-19 data for different countries.
 
 
@@ -26,7 +26,7 @@ The app uses the following APIs to fetch data:
 The following technologies were used to build this app:
 
 - ReactJS
-- TypeScript
+- JavaScript
 - TailwindCSS
 - React Router v6
 - React Query
@@ -39,6 +39,6 @@ To run this app, follow these steps:
 - Start the app: npm start
 The app should open in your default browser at http://localhost:3000/.
 
-#Conclusion
+# Conclusion
 This app is responsive and well-structured, making it easy to maintain and build upon in the future. 
 If you have any questions or feedback, please feel free to contact us. Thank you for using our app!
