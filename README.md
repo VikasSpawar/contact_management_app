@@ -45,3 +45,17 @@ To run this app, follow these steps:
 ## Contact Page 
 
 <img src="./contact_management_app/ScreenShots/Contact_Page.PNG"/>
+
+</br>
+<img src="./contact_management_app/ScreenShots/Contact_Page_2.PNG"/>
+
+</br>
+<img src="./contact_management_app/ScreenShots/Contact_Details.PNG"/>
+
+</br>
+<img src="./contact_management_app/ScreenShots/Contact_form.PNG"/>
+
+</br>
+
+
+
