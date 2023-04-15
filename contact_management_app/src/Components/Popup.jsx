@@ -4,7 +4,7 @@ const Popup = ({ close, el }) => {
 
 
     return (
-        <div className="fixed top-0    text-black left-0 w-full h-full  bg-opacity-40 bg-black flex items-center justify-center">
+        <div className="fixed top-0    text-black left-0 w-full h-full  bg-opacity-20 bg-black flex items-center justify-center">
             <div className="bg-white drop-shadow-md rounded-md p-4 w-mid">
                 <div className="flex justify-between items-center mb-2">
                     <h2 className="text-lg font-medium">Contact Details</h2>
