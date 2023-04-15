@@ -40,4 +40,8 @@ To run this app, follow these steps:
 - Start the app: npm start
 - The app should open in your default browser at http://localhost:3000/.
 
+# Screenshots 
 
+## Contact Page 
+
+<img src="./contact_management_app/Screenshots/Contact_page"/>
