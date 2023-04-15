@@ -58,4 +58,15 @@ To run this app, follow these steps:
 </br>
 
 
+## Charts And Maps Page
+
+<img src="./contact_management_app/ScreenShots/Charts_And_Maps.PNG"/>
+
+</br>
+<img src="./contact_management_app/ScreenShots/Charts_And_Map_2.PNG"/>
+
+</br>
+
+
+
 
