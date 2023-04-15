@@ -38,8 +38,6 @@ To run this app, follow these steps:
 - Clone this repository: git clone https://github.com/your-username/contact-management-app.git
 - Install the dependencies: npm install
 - Start the app: npm start
-The app should open in your default browser at http://localhost:3000/.
+- The app should open in your default browser at http://localhost:3000/.
 
-# Conclusion
-This app is responsive and well-structured, making it easy to maintain and build upon in the future. 
-If you have any questions or feedback, please feel free to contact us. Thank you for using our app!
+
