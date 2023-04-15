@@ -63,7 +63,7 @@ To run this app, follow these steps:
 <img src="./contact_management_app/ScreenShots/Chart_And_Maps_1.PNG"/>
 
 </br>
-<img src="./contact_management_app/ScreenShots/charts_and_Map_2.PNG"/>
+<img src="./contact_management_app/ScreenShots/Charts_and_Map_2.PNG"/>
 
 </br>
 
