@@ -44,4 +44,4 @@ To run this app, follow these steps:
 
 ## Contact Page 
 
-<img src="./contact_management_app/Screenshots/Contact_page"/>
+<img src="./contact_management_app/ScreenShots/Contact_Page.png"/>
